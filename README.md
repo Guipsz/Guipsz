@@ -1,4 +1,4 @@
-## Olá! Me chamo Guilherme pedro
+## Olá! Me chamo Guilherme Pedro
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guipsz&show_icons=true&theme=dracula)](https://github.com/Guipsz/github-readme-stats)
