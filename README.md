@@ -1,8 +1,5 @@
 ## Olá! Me chamo Guilherme pedro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: Ele/Dele
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guipsz&show_icons=true&theme=dracula)](https://github.com/Guipsz/github-readme-stats)
 
