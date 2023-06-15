@@ -1,8 +1,14 @@
 ## Olá! Me chamo Guilherme Pedro
 
-
+<div align="center">
+  <a href="https://github.com/Guipsz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guipsz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guipsz&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guipsz&show_icons=true&theme=dracula)](https://github.com/Guipsz/github-readme-stats)
-
+-->
 ##
 
 <div style="display: inline_block"><br>
@@ -20,3 +26,5 @@
   <a href="https://www.linkedin.com/in/guilherme-souza-ab56b3204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation]([https://github.com/srg-toledo/srg-toledo/blob/output/github-contribution-grid-snake.svg](https://github.com/Guipsz))
